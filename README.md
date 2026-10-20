@@ -2,7 +2,8 @@
 
 ---
 Nushell tool to automatically download a channel's videos at a given interval.
->[!WARNING] For now this is a passion project so don't expect a fully production-ready tool.
+<!-- git.gay doesn't have >[!WARNING] syntax so I had to do this instead -->
+***This is for now a passion project and I do not promise any of this is suitable for a production environment.***
 
 ## Syntax Documentation
 
